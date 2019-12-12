@@ -462,7 +462,4 @@ var selectedopt;
 			jsq.checkAnswer(selectedopt);
 		}
 			jsq.changeQuestion(-1);
-	});	
-
-
-
+	});
